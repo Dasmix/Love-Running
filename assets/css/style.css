@@ -139,7 +139,11 @@ main {
     margin-bottom: 20px;
 }
 #circle-cover-bg {
-    background: url("../images/reasons-image.webp") no-repeat 
+    height: 90vw;
+    width: 90vw;
+    background: url("../images/reasons-image.webp") no-repeat center center/cover;
+    position: relative;
+    margin-bottom: 20px;
 }
 
     /* Media query: tablets and larger (768px and up) */
