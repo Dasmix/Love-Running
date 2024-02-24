@@ -236,7 +236,7 @@ main {
 }
 
 .text-input {
-    color: #fafafa 0.5;
+    color: #fafafa;
     border: 1px solid #fafafa;
     border-radius: 2px;
     background: transparent;
